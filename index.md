@@ -45,7 +45,8 @@ We believe every child comes from a Home and every home produces its kind.
 ## Links
 
 Here's a clickable link to [my LinkedIn Profile](https://www.linkedin.com/in/bukola-adeniyan-396b9360/).
-Here's my website link (http://adeniyanbukola.website3.me)
+
+Here's the link to [my website](http://adeniyanbukola.website3.me)
 
 ## Images
 **Family** is the number one builder of the Society.
